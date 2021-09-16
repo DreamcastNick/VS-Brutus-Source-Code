@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lil-Pup.png"><SubTexture name="Lil-Pup IDLE0000" x="0" y="0" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup IDLE0001" x="408" y="0" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup IDLE0002" x="816" y="0" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup IDLE0003" x="1224" y="0" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup IDLE0004" x="0" y="260" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup IDLE0005" x="408" y="260" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup IDLE0006" x="816" y="260" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup IDLE0007" x="1224" y="260" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup UP0000" x="0" y="520" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup UP0001" x="408" y="520" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup DOWN0000" x="816" y="520" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup DOWN0001" x="1224" y="520" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup RIGHT0000" x="0" y="780" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup RIGHT0001" x="408" y="780" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup LEFT0000" x="816" y="780" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+<SubTexture name="Lil-Pup LEFT0001" x="1224" y="780" width="408" height="260" frameX="0" frameY="0" frameWidth="408" frameHeight="260" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BG-Doggies-Pixel.png"><SubTexture name="BG-Doggies-Pixel DANCE0000" x="0" y="0" width="610" height="308" frameX="0" frameY="0" frameWidth="610" frameHeight="308" />
+<SubTexture name="BG-Doggies-Pixel DANCE0001" x="610" y="0" width="610" height="308" frameX="0" frameY="0" frameWidth="610" frameHeight="308" />
+<SubTexture name="BG-Doggies-Pixel DANCE0002" x="1220" y="0" width="610" height="308" frameX="0" frameY="0" frameWidth="610" frameHeight="308" />
+<SubTexture name="BG-Doggies-Pixel DANCE0003" x="1830" y="0" width="610" height="308" frameX="0" frameY="0" frameWidth="610" frameHeight="308" />
+<SubTexture name="BG-Doggies-Pixel DANCE0004" x="0" y="308" width="610" height="308" frameX="0" frameY="0" frameWidth="610" frameHeight="308" />
+<SubTexture name="BG-Doggies-Pixel DANCE0005" x="610" y="308" width="610" height="308" frameX="0" frameY="0" frameWidth="610" frameHeight="308" />
+<SubTexture name="BG-Doggies-Pixel DANCE0006" x="1220" y="308" width="610" height="308" frameX="0" frameY="0" frameWidth="610" frameHeight="308" />
+<SubTexture name="BG-Doggies-Pixel DANCE0007" x="1830" y="308" width="610" height="308" frameX="0" frameY="0" frameWidth="610" frameHeight="308" />
+</TextureAtlas>

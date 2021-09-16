@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Brutus_NORMAL.png"><SubTexture name="Brutus_NORMAL IDLE0000" x="0" y="0" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL IDLE0001" x="544" y="0" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL IDLE0002" x="1088" y="0" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL IDLE0003" x="1632" y="0" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL IDLE0004" x="0" y="408" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL IDLE0005" x="544" y="408" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL DOWN0000" x="1088" y="408" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL DOWN0001" x="1632" y="408" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL LEFT0000" x="0" y="816" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL LEFT0001" x="544" y="816" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL Right0000" x="1088" y="816" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL Right0001" x="1632" y="816" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL UP0000" x="0" y="1224" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL UP0001" x="544" y="1224" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL FART0000" x="1088" y="1224" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL FART0001" x="1632" y="1224" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL FART0002" x="0" y="1632" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL FART0003" x="544" y="1632" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL FART0004" x="1088" y="1632" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="Brutus_NORMAL FART0005" x="1632" y="1632" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Millie-NORMAL.png"><SubTexture name="Millie-NORMAL IDLE0000" x="0" y="0" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL IDLE0001" x="410" y="0" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL IDLE0002" x="820" y="0" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL IDLE0003" x="1230" y="0" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL IDLE0004" x="0" y="308" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL IDLE0005" x="410" y="308" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL IDLE0006" x="820" y="308" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL IDLE0007" x="1230" y="308" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL RIGHT0000" x="0" y="616" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL UP0000" x="410" y="616" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL UP0001" x="820" y="616" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL DOWN0000" x="1230" y="616" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL DOWN0001" x="0" y="924" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL LEFT0000" x="410" y="924" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL LEFT0001" x="820" y="924" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+<SubTexture name="Millie-NORMAL RIGHT0001" x="1230" y="924" width="410" height="308" frameX="0" frameY="0" frameWidth="410" frameHeight="308" />
+</TextureAtlas>

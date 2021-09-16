@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rascal-NORMAL.png"><SubTexture name="Rascal-NORMAL IDLE0000" x="0" y="0" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL IDLE0001" x="594" y="0" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL IDLE0002" x="1188" y="0" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL IDLE0003" x="1782" y="0" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL IDLE0004" x="0" y="458" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL IDLE0005" x="594" y="458" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL IDLE0006" x="1188" y="458" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL IDLE0007" x="1782" y="458" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL UP0000" x="0" y="916" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL UP0001" x="594" y="916" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL DOWN0000" x="1188" y="916" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL DOWN0001" x="1782" y="916" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL LEFT0000" x="0" y="1374" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL LEFT0001" x="594" y="1374" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL RIGHT0000" x="1188" y="1374" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+<SubTexture name="Rascal-NORMAL RIGHT0001" x="1782" y="1374" width="594" height="458" frameX="0" frameY="0" frameWidth="594" frameHeight="458" />
+</TextureAtlas>

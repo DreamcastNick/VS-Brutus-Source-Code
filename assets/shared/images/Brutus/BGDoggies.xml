@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BGDoggies.png"><SubTexture name="BGDoggies Bounce0000" x="0" y="0" width="1084" height="610" frameX="0" frameY="0" frameWidth="1084" frameHeight="610" />
+<SubTexture name="BGDoggies Bounce0001" x="1084" y="0" width="1084" height="610" frameX="0" frameY="0" frameWidth="1084" frameHeight="610" />
+<SubTexture name="BGDoggies Bounce0002" x="2168" y="0" width="1084" height="610" frameX="0" frameY="0" frameWidth="1084" frameHeight="610" />
+<SubTexture name="BGDoggies Bounce0003" x="3252" y="0" width="1084" height="610" frameX="0" frameY="0" frameWidth="1084" frameHeight="610" />
+<SubTexture name="BGDoggies Bounce0004" x="0" y="610" width="1084" height="610" frameX="0" frameY="0" frameWidth="1084" frameHeight="610" />
+<SubTexture name="BGDoggies Bounce0005" x="1084" y="610" width="1084" height="610" frameX="0" frameY="0" frameWidth="1084" frameHeight="610" />
+<SubTexture name="BGDoggies Bounce0006" x="2168" y="610" width="1084" height="610" frameX="0" frameY="0" frameWidth="1084" frameHeight="610" />
+<SubTexture name="BGDoggies Bounce0007" x="3252" y="610" width="1084" height="610" frameX="0" frameY="0" frameWidth="1084" frameHeight="610" />
+</TextureAtlas>

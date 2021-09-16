@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Brutus-Pixel.png"><SubTexture name="Brutus-Pixel IDLE0000" x="0" y="0" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel IDLE0001" x="139" y="0" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel IDLE0002" x="278" y="0" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel IDLE0003" x="417" y="0" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel IDLE0004" x="0" y="105" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel IDLE0005" x="139" y="105" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel UP0000" x="278" y="105" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel UP0001" x="417" y="105" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel RIGHT0000" x="0" y="210" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel RIGHT0001" x="139" y="210" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel DOWN0000" x="278" y="210" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel DOWN0001" x="417" y="210" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel LEFT0000" x="0" y="315" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel LEFT0001" x="139" y="315" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel FART0000" x="278" y="315" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel FART0001" x="417" y="315" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel FART0002" x="0" y="420" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel FART0003" x="139" y="420" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel FART0004" x="278" y="420" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+<SubTexture name="Brutus-Pixel FART0005" x="417" y="420" width="139" height="105" frameX="0" frameY="0" frameWidth="139" frameHeight="105" />
+</TextureAtlas>

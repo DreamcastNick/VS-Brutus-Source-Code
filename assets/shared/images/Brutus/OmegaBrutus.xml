@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OmegaBrutus.png"><SubTexture name="OmegaBrutus IDLE0000" x="0" y="0" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus IDLE0001" x="544" y="0" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus IDLE0002" x="1088" y="0" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus IDLE0003" x="1632" y="0" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus UP0000" x="0" y="408" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus UP0001" x="544" y="408" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus DOWN0000" x="1088" y="408" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus DOWN0001" x="1632" y="408" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus LEFT0000" x="0" y="816" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus LEFT0001" x="544" y="816" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus RIGHT0000" x="1088" y="816" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+<SubTexture name="OmegaBrutus RIGHT0001" x="1632" y="816" width="544" height="408" frameX="0" frameY="0" frameWidth="544" frameHeight="408" />
+</TextureAtlas>

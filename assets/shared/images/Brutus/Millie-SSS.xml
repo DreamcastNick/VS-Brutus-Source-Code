@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Millie-SSS.png"><SubTexture name="Millie-SSS IDLE0000" x="0" y="0" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS IDLE0001" x="444" y="0" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS IDLE0002" x="888" y="0" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS IDLE0003" x="1332" y="0" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS IDLE0004" x="0" y="308" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS IDLE0005" x="444" y="308" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS IDLE0006" x="888" y="308" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS IDLE0007" x="1332" y="308" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS UP0000" x="0" y="616" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS UP0001" x="444" y="616" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS DOWN0000" x="888" y="616" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS DOWN0001" x="1332" y="616" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS LEFT0000" x="0" y="924" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS LEFT0001" x="444" y="924" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS RIGHT0000" x="888" y="924" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+<SubTexture name="Millie-SSS RIGHT0001" x="1332" y="924" width="444" height="308" frameX="0" frameY="0" frameWidth="444" frameHeight="308" />
+</TextureAtlas>

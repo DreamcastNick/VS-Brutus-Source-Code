@@ -1,0 +1,11 @@
+Tutorial:gf:1
+Pootus:brutus-normal:7
+MC Hearthead:mc-hearthead:7
+Brutus of the Troy:brutus-evil:7
+Omega Blubber Flubber:omega-brutus:7
+Crooked Eyed Millie:millie-normal:8
+Folksong:millie-normal:8
+Second Shittie Sister:millie-sss:8
+Chewtoy:rascal-normal:9
+Omega Rascal Snapple:rascal-ors:9
+Lil Pup:lil-puppy:10
